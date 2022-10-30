@@ -49,6 +49,5 @@ class Currency:
         )
         server.quit()
 
-
 currency = Currency()
 currency.check_currency()
